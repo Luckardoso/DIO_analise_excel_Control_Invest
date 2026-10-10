@@ -12,4 +12,4 @@ Você pode testar e simular cenários diretamente pelo seu navegador sem precisa
 
 ## 🛠️ Tecnologias e Recursos Utilizados
 - **Excel Avançado:** Fórmulas financeiras e Validação de Dados.
-- **Gráficos Interativos:** Grafico Pizza para comparação visual de Perfil.
+- **Gráficos Interativos:** Grafico Pizza para comparação de Perfil.
